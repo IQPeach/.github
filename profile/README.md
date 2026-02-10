@@ -59,7 +59,7 @@ From strategy to launch, we build technology that teams can actually use every d
 
 ## Current Focus
 
-IQPeach is actively developing **IQPeach Course Builder**, an in-browser system that helps teams create and publish educational content faster.
+IQPeach is actively developing **IQPeach Course Studio**, an in-browser system that helps teams create and publish educational content faster.
 
 ## Latest from IQPeach
 
