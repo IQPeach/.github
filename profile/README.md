@@ -1,4 +1,4 @@
-# IQPeach
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Peach.png" width="28" alt="Peach" /> IQPeach
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,100:F97316&height=220&section=header&text=IQPeach&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Learning%20Technology%20Studio&descAlignY=60" alt="IQPeach Header Banner" />
